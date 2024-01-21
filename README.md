@@ -5,3 +5,24 @@ This project involves the implementation of the Pruning and Quantization of VGG1
 ## Network Architecture 
 <img src="./Images/VGGNetwork.png" align = "center">
 
+## Pruning Visualization
+
+<table>
+  <tr>
+      <td align = "center"> <img src="./Images/pruning.png"> </td>
+  </tr>
+  <tr>
+      <td align = "center"> Fine Grained Pruning </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+      <td align = "center"> <img src="./Images/beforepruning.png"> </td>
+      <td align = "center"> <img src="./Images/afterpruning.png"> </td>
+  </tr>
+  <tr>
+      <td align = "center"> Before Pruning </td>
+      <td align = "center"> After Pruning </td>
+  </tr>
+</table>
