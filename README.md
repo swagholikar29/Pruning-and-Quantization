@@ -26,3 +26,14 @@ This project involves the implementation of the Pruning and Quantization of VGG1
       <td align = "center"> After Pruning </td>
   </tr>
 </table>
+
+## Quantization Visualization
+
+<table>
+  <tr>
+      <td align = "center"> <img src="./Images/quantization.png"> </td>
+  </tr>
+  <tr>
+      <td align = "center"> K-means Quantization </td>
+  </tr>
+</table>
